@@ -1,0 +1,48 @@
+{
+    "name": "SECful",
+    "description": "SECful is a cloud-based security, providing detection of the attackers at the beginning of their research stage and preventing APTs and zero-day attacks by securing web and mobile application's APIs specifically.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19065-secful.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/secful\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SECful",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19065-secful.jpg",
+            "humanURL": "http:\/\/www.secful.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/secful-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/secful"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SECful"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Secful"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.secful.com\/"
+        }
+    ]
+}
